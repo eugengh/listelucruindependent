@@ -1,0 +1,2 @@
+Mihai,George,Ana,Dan,Ion,Geta,Vio,
+14,23,15,14,12,41,39
